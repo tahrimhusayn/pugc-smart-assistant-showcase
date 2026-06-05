@@ -129,11 +129,6 @@ https://github.com/EmanTahir255/PUGC_Chatbot
 
 ---
 
-## 🎥 Demo
-
-(Add demo video link in `/demo` folder or YouTube link)
----
-
 ## 📄 Forms System
 
 This platform includes automated generation of:
