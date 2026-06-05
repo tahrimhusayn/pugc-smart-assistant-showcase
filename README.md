@@ -96,11 +96,15 @@ The system follows a modular architecture:
 
 ---
 
+## 🔗 Original Project Repository
+
+This project was developed as a collaborative Final Year Project.
+
+- 👥 Main Source Code (Team Repository):  
+https://github.com/EmanTahir255/PUGC_Chatbot
+
+
 ## 🧑‍💻 My Contribution (IMPORTANT)
-
-This is a **Final Year Group Project**.
-
-### My Responsibilities:
 
 - Frontend Development (HTML, CSS, JS)
 - Backend development (Node.js + Express)
